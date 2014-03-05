@@ -1,0 +1,20 @@
+{
+  "name": "ndate",
+  "version": "0.0.0",
+  "description": "A syscall similar to POSIX Date for NodeOs",
+  "main": "ndate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodeos",
+    "syscall",
+    "date"
+  ],
+  "author": "Tom",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "0.0.8",
+    "moment": "^2.5.1"
+  }
+}

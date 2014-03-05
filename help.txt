@@ -1,0 +1,10 @@
+Usage: ndate [OPTION]... [FORMAT]
+Display the current time in the given FORMAT, or set the system date.
+
+  -d, --date=STRING         display time described by STRING, not 'now'
+      --help     display this help and exit
+      --version  output version information and exit
+
+FORMAT controls the output.  (see http://momentjs.com):
+
+Report date bugs to bug-ndate@nodeos.org
