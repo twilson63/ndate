@@ -1,6 +1,6 @@
 {
   "name": "ndate",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "A syscall similar to POSIX Date for NodeOs",
   "bin": {
     "ndate": "ndate.js"
